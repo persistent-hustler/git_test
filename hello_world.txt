@@ -1,2 +1,2 @@
 Hello World!
-Git is an useful tool. Please use it often.
+Git is a useful tool. Please use it often.
